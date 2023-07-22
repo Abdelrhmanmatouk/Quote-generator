@@ -1,0 +1,26 @@
+body {
+   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+}
+h2{
+    font-size: 30px;
+}
+button {
+    padding: 20px 60px;
+    background-color: blue;
+    color: aliceblue;
+}
+button:hover{
+    background-color: green;
+}
+p{
+    font-size: 32px;
+}
